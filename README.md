@@ -12,5 +12,20 @@ If you find our work useful in your research, please consider citing:
 > @article{}
 
 ### Usage
-To try our method for mesh denoising, you can directly run the exe file inside '''demo''' folder.
+To try our method for mesh denoising, you can directly run the 'NLLR.exe' inside `demo` folder.
+```
+copy noisy mesh into the demo folder (e.g., child_n3.off)
+run: NLLR.exe child_n3.off 0.39 10 10
+```
+'child_n3.off' is the input noisy mesh, 0.39 is the sigma_M in our paper, 10 is the N_k and 10 is the number of vertex updating. You will see the denoised mesh inside the same folder. For the 'NLLR.exe', you can refer to `NLLR` folder for the source code.
+
+To evaluate the denoising performance, you can directly run the 'evaluation.exe' inside `demo` folder.
+```
+copy ground truth mesh into the demo folder (e.g., child.off)
+run: evaluation.exe child.off denoised_result.off
+```
+'child.off' is the ground truth mesh, 'denoised_result.off' is the denoised mesh. You will see the mean square angle error (MSAE).
+
+### Questions
+Please constact 'xzli@cse.cuhk.edu.hk'
 
