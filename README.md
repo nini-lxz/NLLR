@@ -7,5 +7,9 @@ This repository is for our PG 2018 paper 'Non-Local Low-Rank Normal Filtering fo
 
 In this repository, we release demo (exe files), code (C++), and data. 
 
+### Citation
+If you find our work useful in your research, please consider citing:
+> @article{}
+
 ### Usage
 
