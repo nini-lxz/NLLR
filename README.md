@@ -12,4 +12,5 @@ If you find our work useful in your research, please consider citing:
 > @article{}
 
 ### Usage
+To try our method for mesh denoising, you can directly run the exe file inside '''demo''' folder.
 
