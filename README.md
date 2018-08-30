@@ -8,7 +8,12 @@ In this repository, we release demo (exe files), code (C++), and data.
 
 ### Citation
 If you find our work useful in your research, please consider citing:
-> @article{}
+> @article{xianzhi2018nllr,
+title={Non-local low-rank normal filtering for mesh denoising},
+author={Li, Xianzhi and Lei, Zhu and Fu, Chi-Wing and Heng, Pheng-Ann},
+journal={Computer Graphics Forum (Pacific Graphics)},
+note={to appear}
+}
 
 ### Usage
 To try our method for mesh denoising, you can directly run the 'NLLR.exe' inside `demo.rar`.
@@ -28,5 +33,5 @@ run: evaluation.exe child.off denoised_result.off
 'child.off' is the ground truth mesh, 'denoised_result.off' is the denoised mesh. You will see the mean square angle error (MSAE).
 
 ### Questions
-Please constact 'xzli@cse.cuhk.edu.hk'
+Please constact 'lixianzhi123@gmail.com'
 
