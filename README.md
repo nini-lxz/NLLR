@@ -10,14 +10,14 @@ In this repository, we release demo (exe files), code (C++), and data.
 If you find our work useful in your research, please consider citing:
 > @article{xianzhi2018nllr,
 
-title={Non-local low-rank normal filtering for mesh denoising},
+> title={Non-local low-rank normal filtering for mesh denoising},
 
-author={Li, Xianzhi and Lei, Zhu and Fu, Chi-Wing and Heng, Pheng-Ann},
+> author={Li, Xianzhi and Lei, Zhu and Fu, Chi-Wing and Heng, Pheng-Ann},
 
-journal={Computer Graphics Forum (Pacific Graphics)},
+> journal={Computer Graphics Forum (Pacific Graphics)},
 
-note={to appear}
-}
+> note={to appear},
+> }
 
 ### Usage
 To try our method for mesh denoising, you can directly run the 'NLLR.exe' inside `demo.rar`.
