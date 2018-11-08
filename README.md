@@ -13,7 +13,9 @@ If you find our work useful in your research, please consider citing:
  title={Non-local low-rank normal filtering for mesh denoising}, 
  author={Li, Xianzhi and Zhu, Lei and Fu, Chi-Wing and Heng, Pheng-Ann},
  journal={Computer Graphics Forum (Pacific Graphics)}, 
- note={to appear},
+ volume={37},
+ number={7},
+ pages={155--166},
  year={2018}
 }
 ```
