@@ -1,5 +1,5 @@
 # Non-Local Low-Rank Normal Filtering for Mesh Denoising
-by Xianzhi Li, [Lei Zhu](http://appsrv.cse.cuhk.edu.hk/~lzhu/), [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/) and [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/).
+by [Xianzhi Li](https://nini-lxz.github.io/), [Lei Zhu](http://appsrv.cse.cuhk.edu.hk/~lzhu/), [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/) and [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/).
 
 ### Introduction
 This repository is for our Pacific Graphics 2018 paper '[Non-Local Low-Rank Normal Filtering for Mesh Denoising](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13556)'. In this paper, we present a non-local low-rank normal filtering method for mesh denoising. By exploring the geometric similarity between local surface patches on 3D meshes in the form of normal fields, we devise a low-rank recovery model that filters normal vectors by means of patch groups.
