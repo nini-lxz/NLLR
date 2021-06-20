@@ -38,5 +38,5 @@ run: evaluation.exe child.off denoised_result.off
 'child.off' is the ground truth mesh, 'denoised_result.off' is the denoised mesh. You will see the mean square angle error (MSAE).
 
 ### Questions
-Please constact 'lixianzhi123@gmail.com'
+Please contact 'lixianzhi123@gmail.com'
 
